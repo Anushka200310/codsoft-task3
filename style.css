@@ -1,0 +1,42 @@
+/*overall styling */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.calculator {
+    width: 300px;
+    margin: 2.2rem auto;
+    padding: 22px 10px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+/* style the input field */
+.input {
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 12px 3px;
+    font-size: 1.3rem;
+    box-shadow: inset -5px -5px 12px #ffffff,
+                inset  5px 5px 12px rgba(0, 0, 0, 0.17);
+    border-radius: 6px;
+    border: none;
+    outline: none;
+}
+
+/* style the buttons */
+
+.buttons{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 5px;
+    width: 275px;
+    margin: 1.2rem auto;
+}
+.btn{
+    height: 60px;
+    width: 60px;
+}
+

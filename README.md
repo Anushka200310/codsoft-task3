@@ -4,4 +4,4 @@ This is a simple calculator web application built using HTML, CSS, and JavaScrip
 
 # Demo
 
-You can try out the live demo of this calculator [here](link-to-your-live-demo).
+You can try out the live demo of this calculator [here]( https://anushka200310.github.io/codsoft-task2/).
